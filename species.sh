@@ -1,4 +1,5 @@
 # TO DO: make this awesomer
+# AND YET MORE TO DO: make this cooler
 for filename in $*
 do
   echo $filename

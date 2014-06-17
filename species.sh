@@ -1,3 +1,4 @@
+# TO DO: make this awesomer
 for filename in $*
 do
   echo $filename
